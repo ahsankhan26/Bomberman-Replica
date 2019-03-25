@@ -27,7 +27,6 @@ It is a Two-Player game.
   ○ NumPad4 | Move Left
   ○ NumPad6 | Move Right
   ○ EndKey  | Place Bomb
-
 </pre>
 
 
