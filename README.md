@@ -11,6 +11,7 @@ The idea is to place a bomb near a wall to destroy it and use the same bomb to d
 It is a Two-Player game.
 
 - Player One Controls
+<pre>
   - UpArrowKey    | Move Up
   - DownArrowKey  | Move Down
   - LeftArrowKey  | Move Left
@@ -25,6 +26,6 @@ It is a Two-Player game.
   - NumPad6 | Move Right
   - EndKey  | Place Bomb
 
-
+</pre>
 
 
