@@ -2,7 +2,7 @@
 First videogame development project.
 
 # Introduction
-This is a replica of the classic Bomberman Game in SNES.
+This is a replica of the "Super Bomberman" Game in SNES.
 
 The idea is to place a bomb near a wall to destroy it and use the same bomb to defeat the second player.
 
