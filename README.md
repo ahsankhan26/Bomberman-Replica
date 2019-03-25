@@ -17,8 +17,9 @@ It is a Two-Player game.
   - LeftArrowKey  | Move Left
   - RightArrowKey | Move Right
   - SpaceBar      | Place Bomb
+</pre>  
   
-
+<pre>
 - Player Two Controls
   - NumPad8 | Move Up
   - NumPad5 | Move Down
