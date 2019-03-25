@@ -1,2 +1,22 @@
 # Bomberman-Replica
-first videogame development project
+First videogame development project.
+
+# Introduction
+This is a replica of the classic Bomberman Game in SNES.
+
+The idea is to place a bomb near a wall to destroy it and use the same bomb to defeat the second player.
+
+# Controls
+
+It is a Two-Player game.
+
+- Player One Controls
+  - UpArrowKey | Move Up
+  - DownArrowKey | Move Down
+  - LeftArrowKey | Move Left
+  - RightArrowKey | Move Left
+  - SpaceBar | Place Bomb
+
+
+
+
