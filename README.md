@@ -19,8 +19,9 @@ It is a Two-Player game.
   - SpaceBar      | Place Bomb
 </pre>  
   
-<pre>
+  
 - Player Two Controls
+<pre>
   - NumPad8 | Move Up
   - NumPad5 | Move Down
   - NumPad4 | Move Left
