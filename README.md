@@ -42,7 +42,7 @@ You can change the controls by making changes in the following files present in 
 
 - Player Two
 <pre>
-○ Player One Movement | Player2Script.cs
-○ Player One Bomb     | Player2BombSpawner.cs
+○ Player Two Movement | Player2Script.cs
+○ Player Two Bomb     | Player2BombSpawner.cs
 </pre>
 
