@@ -1,0 +1,133 @@
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\Assembly-CSharp.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\Assembly-CSharp.pdb
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\nunit.framework.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.Advertisements.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.Analytics.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.Graphs.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.HoloLens.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.Networking.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.Purchasing.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.TestRunner.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.Timeline.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.UI.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.VR.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEngine.Advertisements.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEngine.Analytics.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEngine.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEngine.HoloLens.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEngine.Networking.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEngine.Purchasing.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEngine.TestRunner.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEngine.Timeline.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEngine.UI.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\Unity.Cecil.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\Unity.SerializationLogic.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\Unity.DataContract.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\ExCSS.Unity.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\Unity.UNetWeaver.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\Unity.CecilTools.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEngine.xml
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.xml
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEngine.UI.xml
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.UI.xml
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEngine.Networking.xml
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.Networking.xml
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.TestRunner.xml
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEngine.TestRunner.xml
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\nunit.framework.xml
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEngine.Timeline.xml
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.Timeline.xml
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.HoloLens.xml
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEngine.HoloLens.xml
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.VR.xml
+H:\Unity Development\Bomberman sprite control\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+H:\Unity Development\Bomberman sprite control\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+H:\Unity Development\Bomberman sprite control\obj\Debug\Assembly-CSharp.dll
+H:\Unity Development\Bomberman sprite control\obj\Debug\Assembly-CSharp.pdb
+G:\Bomberman exp\Temp\bin\Debug\Assembly-CSharp.dll
+G:\Bomberman exp\Temp\bin\Debug\Assembly-CSharp.pdb
+G:\Bomberman exp\Temp\bin\Debug\nunit.framework.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.Advertisements.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.Analytics.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.Graphs.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.HoloLens.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.Networking.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.Purchasing.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.TestRunner.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.Timeline.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.UI.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.VR.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEngine.Advertisements.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEngine.Analytics.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEngine.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEngine.HoloLens.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEngine.Networking.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEngine.Purchasing.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEngine.TestRunner.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEngine.Timeline.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEngine.UI.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+G:\Bomberman exp\Temp\bin\Debug\Unity.Cecil.dll
+G:\Bomberman exp\Temp\bin\Debug\Unity.SerializationLogic.dll
+G:\Bomberman exp\Temp\bin\Debug\Unity.DataContract.dll
+G:\Bomberman exp\Temp\bin\Debug\ExCSS.Unity.dll
+G:\Bomberman exp\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+G:\Bomberman exp\Temp\bin\Debug\Unity.UNetWeaver.dll
+G:\Bomberman exp\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+G:\Bomberman exp\Temp\bin\Debug\Unity.CecilTools.dll
+G:\Bomberman exp\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+G:\Bomberman exp\Temp\bin\Debug\UnityEngine.xml
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.xml
+G:\Bomberman exp\Temp\bin\Debug\UnityEngine.UI.xml
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.UI.xml
+G:\Bomberman exp\Temp\bin\Debug\UnityEngine.Networking.xml
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.Networking.xml
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.TestRunner.xml
+G:\Bomberman exp\Temp\bin\Debug\UnityEngine.TestRunner.xml
+G:\Bomberman exp\Temp\bin\Debug\nunit.framework.xml
+G:\Bomberman exp\Temp\bin\Debug\UnityEngine.Timeline.xml
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.Timeline.xml
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+G:\Bomberman exp\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+G:\Bomberman exp\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.HoloLens.xml
+G:\Bomberman exp\Temp\bin\Debug\UnityEngine.HoloLens.xml
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+G:\Bomberman exp\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.VR.xml
+G:\Bomberman exp\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+G:\Bomberman exp\obj\Debug\Assembly-CSharp.dll
+G:\Bomberman exp\obj\Debug\Assembly-CSharp.pdb

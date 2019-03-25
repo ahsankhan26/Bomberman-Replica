@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6a5aa121cdc801744a0ee64efd01699d
+timeCreated: 1519335234
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tilemap: {fileID: 8195094282041331576, guid: d4fa0ec7d8b384e4f9fb994a77bd3752,
+      type: 2}
+  - bombPrefab: {fileID: 1628552084375578, guid: 4b6e690ae26f85542889b9c75aba6de4,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
