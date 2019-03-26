@@ -23,13 +23,13 @@ It is a Two-Player game.
   
 - Player Two Controls
 
-| Key      | Description |
-| -------- | ----------- |
-| NumPad8  | Move Up     |
-| NumPad5  | Move Down   |
-| NumPad4  | Move Left   |
-| NumPad6  | Move Right  |
-| End Key  | Place Bomb  |
+| Key            | Description |
+| --------       | ----------- |
+| NumPad8        | Move Up     |
+| NumPad5        | Move Down   |
+| NumPad4        | Move Left   |
+| NumPad6        | Move Right  |
+| End Key        | Place Bomb  |
 
 
 # Changing Controls
