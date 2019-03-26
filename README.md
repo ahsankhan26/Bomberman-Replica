@@ -12,30 +12,24 @@ It is a Two-Player game.
 
 - Player One Controls
 
-| Key  | Description |
-| ------------- | ------------- |
-| UpArrowKey  | Move Up  |
-| DownArrowKey  | Move Down  |
-| LeftArrowKey  | Move Left  |
+| Key            | Description |
+| -------------- | ----------- |
+| UpArrowKey     | Move Up     |
+| DownArrowKey   | Move Down   |
+| LeftArrowKey   | Move Left   |
 | RightArrowKey  | Move Right  |
+| SpaceBar       | Place Bomb  |
 
-<pre>
-  ○ UpArrowKey    | Move Up
-  ○ DownArrowKey  | Move Down
-  ○ LeftArrowKey  | Move Left
-  ○ RightArrowKey | Move Right
-  ○ SpaceBar      | Place Bomb
-</pre>  
-  
   
 - Player Two Controls
-<pre>
-  ○ NumPad8 | Move Up
-  ○ NumPad5 | Move Down
-  ○ NumPad4 | Move Left
-  ○ NumPad6 | Move Right
-  ○ EndKey  | Place Bomb
-</pre>
+
+| Key      | Description |
+| -------- | ----------- |
+| NumPad8  | Move Up     |
+| NumPad5  | Move Down   |
+| NumPad4  | Move Left   |
+| NumPad6  | Move Right  |
+| End Key  | Place Bomb  |
 
 
 # Changing Controls
