@@ -24,7 +24,7 @@ It is a Two-Player game.
 - Player Two Controls
 
 | Key            | Description |
-| --------       | ----------- |
+| -------------- | ----------- |
 | NumPad8        | Move Up     |
 | NumPad5        | Move Down   |
 | NumPad4        | Move Left   |
