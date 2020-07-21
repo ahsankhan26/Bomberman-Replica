@@ -6,6 +6,13 @@ This is a replica of the "Super Bomberman" Game in SNES.
 
 The idea is to place a bomb near a wall to destroy it and use the same bomb to defeat the second player.
 
+# Demo
+<p align="center">
+  <img src="demo.gif">
+</p>
+
+
+
 # Controls
 
 It is a Two-Player game.
