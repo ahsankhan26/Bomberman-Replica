@@ -18,7 +18,7 @@ The idea is to place a bomb near a wall to destroy it and use the same bomb to d
 It is a Two-Player game.
 
 - Player One Controls
-
+              
 | Key            | Description |
 | -------------- | ----------- |
 | UpArrowKey     | Move Up     |
@@ -38,6 +38,13 @@ It is a Two-Player game.
 | NumPad6        | Move Right  |
 | End Key        | Place Bomb  |
 
+  <center>
+
+| Player 1 Controls || Player 2 Controls |
+|--|-|--|
+|<table><tr><th>Key</th><th>Description</th></tr><tr align="center"><td>UpArrowKey</td><td>Move Up</td></tr><tr><td>DownArrowKey</td><td>Move Down</td></tr><tr><td>LeftArrowKey</td><td>Move Left</td></tr><tr><td>RightArrowKey</td><td>Move Right</td></tr><tr><td>SpaceBar</td><td>Place Bomb</td></tr> </table>|<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>| <table> <tr><th>Key</th><th>Description</th></tr><tr><td>UpArrowKey</td><td>Move Up</td></tr><tr><td>DownArrowKey</td><td>Move Down</td></tr><tr><td>LeftArrowKey</td><td>Move Left</td></tr><tr><td>RightArrowKey</td><td>Move Right</td></tr><tr><td>SpaceBar</td><td>Place Bomb</td></tr> </table>|
+
+  </center>
 
 # Changing Controls
 You can change the controls by making changes in the following files present in <i>/Assets/Scripts</i> directory.
