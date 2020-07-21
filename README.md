@@ -42,7 +42,7 @@ It is a Two-Player game.
 
 | Player 1 Controls || Player 2 Controls |
 |--|-|--|
-|<table><tr><th>Key</th><th>Description</th></tr><tr align="center"><td>UpArrowKey</td><td>Move Up</td></tr><tr><td>DownArrowKey</td><td>Move Down</td></tr><tr><td>LeftArrowKey</td><td>Move Left</td></tr><tr><td>RightArrowKey</td><td>Move Right</td></tr><tr><td>SpaceBar</td><td>Place Bomb</td></tr> </table>|<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>| <table> <tr><th>Key</th><th>Description</th></tr><tr><td>UpArrowKey</td><td>Move Up</td></tr><tr><td>DownArrowKey</td><td>Move Down</td></tr><tr><td>LeftArrowKey</td><td>Move Left</td></tr><tr><td>RightArrowKey</td><td>Move Right</td></tr><tr><td>SpaceBar</td><td>Place Bomb</td></tr> </table>|
+|<table><tr><th>Key</th><th>Description</th></tr><tr align="center"><td>UpArrowKey</td><td>Move Up</td></tr><tr align="center"><td>DownArrowKey</td><td>Move Down</td></tr><tr align="center"><td>LeftArrowKey</td><td>Move Left</td></tr><tr align="center"><td>RightArrowKey</td><td>Move Right</td></tr><tr align="center"><td>SpaceBar</td><td>Place Bomb</td></tr> </table>|<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>| <table> <tr><th>Key</th><th>Description</th></tr><tr align="center"><td>NumPad 8</td><td>Move Up</td></tr><tr align="center"><td>NumPad 5</td><td>Move Down</td></tr><tr align="center"><td>NumPad 4</td><td>Move Left</td></tr><tr align="center"><td>NumPad 6</td><td>Move Right</td></tr><tr align="center"><td>End Key</td><td>Place Bomb</td></tr> </table>|
 
   </center>
 
