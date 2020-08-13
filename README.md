@@ -1,5 +1,10 @@
-# Bomberman-Replica
+<h1 id="title" align="center">Bomberman Replica</h1>
+
 First videogame development project.
+<p align="center">
+  <a href="#title"><img src="https://forthebadge.com/images/badges/made-with-c-sharp.svg"></a>
+  <a href="#title"><img src="https://forthebadge.com/images/badges/built-with-love.svg"></a>
+</p>
 
 <p align="center">
   <a href="#overview">Introduction</a> :small_blue_diamond:
