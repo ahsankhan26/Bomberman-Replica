@@ -41,12 +41,14 @@ It is a Two-Player game.
 <h1 id="changingControls">Changing Controls</h1>
 You can change the controls by making changes in the following files present in <i>/Assets/Scripts</i> directory.
 
-- Player One
+<h4>Player One</h4>
+
 ```javascript
 ○ Player One Movement | Player1.cs
 ○ Player One Bomb     | BombSpawner.cs
 ```
-- Player Two
+<h4>Player Two</h4>
+
 ```javascript
 ○ Player Two Movement | Player2Script.cs
 ○ Player Two Bomb     | Player2BombSpawner.cs
