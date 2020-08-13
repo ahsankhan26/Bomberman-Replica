@@ -1,6 +1,7 @@
 <h1 id="title" align="center">Bomberman Replica</h1>
 
-First videogame development project.
+<h3 align="center">:video_game: A SNES Bomberman Replica video game :bomb:</h3>
+
 <p align="center">
   <a href="#title"><img src="https://forthebadge.com/images/badges/made-with-c-sharp.svg"></a>
   <a href="#title"><img src="https://forthebadge.com/images/badges/built-with-love.svg"></a>
