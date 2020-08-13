@@ -8,7 +8,7 @@ First videogame development project.
   <a href="#changingControls">Changing Controls</a>
 </p>
 
-# Introduction
+<h1 id="introduction">Introduction</h1>
 This is a replica of the "Super Bomberman" Game in SNES.
 
 The idea is to place a bomb near a wall to destroy it and use the same bomb to defeat the second player.
@@ -32,7 +32,7 @@ It is a Two-Player game.
 
 </center>
 
-# Changing Controls
+<h1 id="changingControls">Changing Controls</h1>
 You can change the controls by making changes in the following files present in <i>/Assets/Scripts</i> directory.
 
 - Player One
