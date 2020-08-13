@@ -1,19 +1,26 @@
 # Bomberman-Replica
 First videogame development project.
 
+<p align="center">
+  <a href="#overview">Introduction</a> :small_blue_diamond:
+  <a href="#demo">Demo</a> :small_blue_diamond:
+  <a href="#controls">Controls</a> :small_blue_diamond:
+  <a href="#changingControls">Changing Controls</a>
+</p>
+
 # Introduction
 This is a replica of the "Super Bomberman" Game in SNES.
 
 The idea is to place a bomb near a wall to destroy it and use the same bomb to defeat the second player.
 
-# Demo
+<h1 id="demo">Demo</h1>
 <p align="center">
-  <img src="demo.gif">
+  <img width="100%" src="demo.gif">
 </p>
 
 
 
-# Controls
+<h1 id="controls">Controls</h1>
 
 It is a Two-Player game.
 
@@ -29,14 +36,13 @@ It is a Two-Player game.
 You can change the controls by making changes in the following files present in <i>/Assets/Scripts</i> directory.
 
 - Player One
-<pre>
+```javascript
 ○ Player One Movement | Player1.cs
 ○ Player One Bomb     | BombSpawner.cs
-</pre>
-
+```
 - Player Two
-<pre>
+```javascript
 ○ Player Two Movement | Player2Script.cs
 ○ Player Two Bomb     | Player2BombSpawner.cs
-</pre>
+```
 
